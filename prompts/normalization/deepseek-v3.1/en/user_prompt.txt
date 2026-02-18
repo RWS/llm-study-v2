@@ -1,0 +1,5 @@
+Normalize these 10 sentences:
+
+{input_sentences}
+
+Don't output only the given raw JSON schema, output the normalized and original sentences, wrapped in the given JSON schema.

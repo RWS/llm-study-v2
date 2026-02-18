@@ -1,0 +1,3 @@
+Boneza izi nteruro 10:
+
+{input_sentences}

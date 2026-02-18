@@ -1,0 +1,7 @@
+Isalin ang talatang ito sa Tagalog:
+
+<input_talata>
+{input_paragraph}
+</input_talata>
+
+Alalahaning itala ang orihinal na nilalaman at pagkakasalin nito sa JSON na istraktura na ibinigay sa ibaba. Huwag magbigay ng pangkaraniwang taludtod, kundi isang buong wasto na JSON paksa. Huwag gumamit ng pambalot katulad ng "```json", ngunit bumuo ng nakaistrakturang resulta  (sa Ingles: structured output).

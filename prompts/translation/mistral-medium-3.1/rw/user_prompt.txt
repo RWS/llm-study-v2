@@ -1,0 +1,5 @@
+Semura iki gika:
+
+<shyiramo_igika>
+{input_paragraph}
+</shyiramo_igika>

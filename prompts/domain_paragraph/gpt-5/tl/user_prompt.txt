@@ -1,0 +1,9 @@
+Sumulat ng isang talata na may 35 hanggang 45 salita tungkol sa sumusunod na paksa, sa konteksto ng pangkalahatang larangan:
+
+<domain>
+{topic}
+</domain>
+
+<topic>
+{subtopic}
+</topic>

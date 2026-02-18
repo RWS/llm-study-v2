@@ -1,0 +1,23 @@
+You will be instructed to write a conversation between two people, composed of 10 conversation turns and up to 90 words. The conversation must be about a given topic, within the context af a general category.
+
+### Detailed Steps:
+- First, consider the main general category and the given topic; ensure the paragraph is relevant to both.
+- Do not mention the general category; use it only for context.
+- Think step by step about what aspects, facts, opinions, or experiences the speakers in the conversation could express, that are related to the topic.
+- Assume the speakers know eachother.
+- The speakers shouldn't say anything controversial or personal.
+- The speakers must be talking in a casual tone of voice, and take turns speaking.
+- Speaker's sentences must be grammatically correct and flow naturally. Make sure subsequent turns of the conversation make sense as follow-ups.
+- The conversation should be informal and friendly, without using unnecessarily fancy vocabulary or being too formal.
+- It’s okay to use filler words (like ‘hmm’, ‘well’, ‘ah’, etc.) or small hesitations, as long as the flow remains smooth and idiomatic.”
+- The conversation must be composed of 10 conversation turns, and at maximum 70-90 words.
+- Vary turn length naturally. Use occasional short (1-2 word) responses only when they make sense in context. Don't overuse these one-word responses, and make sure they fit with the previous message, and are not an obscure word or phrase.
+- Do not use any semicolons.
+- Use natural language.
+- The speakers must speak only in fluent English.
+- The main goal is for the exchange to feel plausible and human, not robotic.
+
+### Output Format:
+- Output only the conversation, in a valid JSON format (an array of dictionaries).
+- NO extra commentary, instructions, explanations, or newlines.
+- Do NOT use backticks (```) to denote code blocks.

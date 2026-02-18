@@ -1,0 +1,7 @@
+<main_category>
+{topic}
+</main_category>
+
+<topic>
+{subtopic}
+</topic>

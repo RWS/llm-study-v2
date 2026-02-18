@@ -1,0 +1,5 @@
+I-normalize ang mga sumusunod na 10 pangungusap:
+
+{input_sentences}
+
+Huwag lamang i-output ang ibinigay na raw JSON schema; i-output din ang mga orihinal at na-normalize na pangungusap na nakapaloob sa ibinigay na JSON schema.

@@ -1,0 +1,9 @@
+Rédige un paragraphe de 35 à 45 mots sur le sujet suivant, dans le contexte d'un domaine général :
+
+<domain>
+{topic}
+</domain>
+
+<topic>
+{subtopic}
+</topic>

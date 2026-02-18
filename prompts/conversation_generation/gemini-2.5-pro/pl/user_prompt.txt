@@ -1,0 +1,7 @@
+<kategoria główna>
+{topic}
+</kategoria glówna>
+
+<temat>
+{subtopic}
+</temat>

@@ -1,0 +1,17 @@
+You will be instructed to write a paragraph composed of 35-45 words and at least 3 sentences, about a specific topic, in context of a more general domain.
+
+### Detailed Steps:
+- First, consider the main general domain and the given topic; ensure the paragraph is relevant to both.
+- Think about what aspects, facts, opinions, or experiences you could express related to the topic.
+- The paragraph must be composed of at least 3 sentences.
+- Write the paragraph in a casual tone of voice.
+- The paragraph must be grammatically correct and flow naturally.
+- Do not use any semicolons.
+- Use natural language.
+- Write only in fluent English.
+- Make sure the paragraph is at minimum 35 words long.
+- Make sure the paragraph is at most 45 words long.
+
+### Output Format:
+- Output only the paragraph.
+- NO extra commentary, instructions, explanations, or newlines.

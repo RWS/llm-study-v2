@@ -1,0 +1,16 @@
+Iuutos sa iyo na magsulat ng isang talata na may 35–45 salita at hindi bababa sa tatlong pangungusap tungkol sa isang paksa, sa konteksto ng pangkalahatang larangan.
+
+### Mga Hakbang:
+-Una, unawain ang larangan at paksa; siguraduhing may kaugnayan ang isusulat.
+-Pag-isipan kung anong ideya, karanasan, o opinyon ang maaari mong ibahagi tungkol sa paksa.
+-Siguraduhing may hindi bababa sa 3 pangungusap ang talata.
+-Gumamit ng kaswal na tono.
+-Dapat tama ang gramatika at natural ang daloy.
+-Huwag gumamit ng tutuldok-kuwit (semicolon).
+-Gumamit ng wikang Tagalog lamang.
+-Siguraduhing nasa pagitan ng 35 at 45 salita ang bilang.
+-Bilangin ang bilang ng mga salita upang matiyak na nasa loob ka ng itinakdang saklaw ng bilang ng mga salita.
+
+### Format ng Output:
+-Ibigay lamang ang talata.
+-WALANG dagdag na paliwanag, tagubilin, o linya.

@@ -1,0 +1,23 @@
+Urahabwa amabwiriza yo kwandika ikiganiro gikorwa n'abantu babiri, kigizwe no guhererekanya amagambo inshuro 10 kikagira amagambo agera kuri 90. Ikiganiro kigomba kuba kivuga ku ngingo yatanzwe, mu cyerekezo cy'icyiciro rusange.
+
+### Intambwe zisobanuye birambuye:
+- Mbere na mbere, tekereza ku cyiciro rusange cy'ibanze n'ingingo yatanzwe, ukore ku buryo igika kiba kibisobanura byombi.
+- Ntuvugemo icyiciro rusange, gikoreshe gusa ku mu cyerekezo.
+- Tekereza intambwe ku yindi ku bice, ibimenyetso, ibitekerezo, cyangwa ubunararibonye abaganira muri icyo kiganiro bashobora gukoresha, bifitanye isano n'iyo ngingo.
+- Bifate nk'aho abaganira baziranye.
+- Abaganira ntibagomba kugira ikintu batumvikanaho cyangwa cyerekeye ubuzima bwabo bwite.
+- Abaganira bagomba kuba bavuga mu buryo busanzwe, kandi bahererekanya amagambo.
+- Interuro abaganira bavuga zigomba kuba zifite ikibonezamvugo kitarimo amakosa kandi zumvikana mu buryo bw'umwimerere. Kora ku buryo amagambo avugwa n'ukurikiyeho mu kiganiro aba ari urukurikirane rwumvikana. 
+- Ikiganiro kigomba kuba gisanzwe kandi kiryoshye, kidakoreshwamo amagambo akomeye bitari ngombwa cyangwa ngo kibe gifite amategeko menshi gikurikiza.
+- Ntacyo bitwaye gukoresha amagambo y'ibyuzuzo (nka ‘hmm’, ‘ni byiza’, ‘ah’, n'andi.) cyangwa gushidikanya gahoro, igihe cyose ikiganiro gikomeza kugenda neza kandi kikaba umwimerere.”
+- Ikiganiro kigomba kuba kigizwe no guhererekanya amagambo inshuro 10, kandi ntikigomba kurenza amagambo 70-90.
+- Hinduranya uburebure bw'amagambo ahererekanywa mu buryo bw'umwimerere. Koresha rimwe na rimwe ibisubizo bigufi (ijambo 1-2) igihe gusa byumvikana mu cyerekezo cy'ikiganiro. Ntukoreshe cyane ibi bisubizo bigizwe n'ijambo rimwe, kandi ukore ku buryo bijyana n'ubutumwa bubibanziriza, kandi ntibibe ijambo cyangwa interuro ngufi bitera urujijo.
+- Ntukoreshe utubago n'utwitso.
+- Koresha imvugo y'umwimerere.
+- Abaganira bagomba kuvuga gusa mu Kinyarwanda gikoreshwa cyane.
+- Intego nyamukuru ni uko ikiganiro kiba gishobora kubaho kandi kigakorwa n'abantu, ntabwo ari icy'irobo.
+
+### Imiterere ikiganiro gikorwamo:
+- Kora ikiganiro gusa, mu miterere yemewe ya JSON (urutonde rw'inkoranyamagambo).
+- NTA bitekerezo, amabwiriza, ibisobanuro, cyangwa imirongo mishya birenzeho.
+- NTUkoreshe utwuguruzo n'utwugarizo (```) kugira ngo usobanure ibice birimo kode.

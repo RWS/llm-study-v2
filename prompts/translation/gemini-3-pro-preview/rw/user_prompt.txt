@@ -1,0 +1,7 @@
+Semura iki gika:
+
+<shyiramo_igika>
+{input_paragraph}
+</shyiramo_igika>
+
+Ibuka kwandika igika cy'umwimerere n'icyasemuwe cyacyo mu miterere ya JSON yatanzwe munsi. Ntugikore nk'umurongo usanzwe, ahubwo kibe kimeze nk'ikintu cya JSON cyemewe. Ntukoreshe uburyo bwo gufunga nka "```json", ahubwo ubikore mu miterere yagenwe (mu Cyongereza: structured output).

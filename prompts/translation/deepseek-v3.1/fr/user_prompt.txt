@@ -1,0 +1,7 @@
+Traduis ce paragraphe :
+
+<saisie_paragraphe>
+{input_paragraph}
+</saisie_paragraphe>
+
+N'oubliez pas d'insérer correctement le paragraphe traduit et le paragraphe original dans ce schéma JSON. Ne renvoyez pas le schéma JSON tel quel ; insérez-y les traductions.

@@ -1,0 +1,19 @@
+Write {number_of_sentences} sentences, each containing 2-4 elements from these categories:
+
+<category_1>
+{topic_1}{topic_1_description}
+Examples:
+"{topic_1_example_1}", "{topic_1_example_2}", "{topic_1_example_3}", "{topic_1_example_4}"
+</category_1>
+
+<category_2>
+{topic_2}{topic_2_description}
+Examples:
+"{topic_2_example_1}", "{topic_2_example_2}", "{topic_2_example_3}", "{topic_2_example_4}"
+</category_2>
+
+<category_3>
+{topic_3}{topic_3_description}
+Examples:
+"{topic_3_example_1}", "{topic_3_example_2}", "{topic_3_example_3}", "{topic_3_example_4}"
+</category_3>

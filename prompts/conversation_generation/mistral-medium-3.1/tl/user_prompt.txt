@@ -1,0 +1,7 @@
+<pangunahing_kategorya>
+{topic}
+</pangunahing_kategorya>
+
+<paksa>
+{subtopic}
+</paksa>
