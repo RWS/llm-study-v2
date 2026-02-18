@@ -1,9 +1,0 @@
-Write a paragraph of 35 to 45 words about the following topic, in the context of a general domain:
-
-<domain>
-{topic}
-</domain>
-
-<topic>
-{subtopic}
-</topic>

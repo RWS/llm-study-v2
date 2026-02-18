@@ -1,9 +1,0 @@
-请围绕以下主题，在一般领域背景下撰写一段文字，字数控制在 35 至 45 词之间：
-
-<domain>
-{topic}
-</domain>
-
-<topic>
-{subtopic}
-</topic>
