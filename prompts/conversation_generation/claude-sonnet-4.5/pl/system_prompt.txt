@@ -1,0 +1,24 @@
+Twoim zadaniem będzie napisanie rozmowy między dwiema osobami, składającej się z 10 kwestii i maksymalnie 90 słów. Rozmowa musi dotyczyć podanego tematu w kontekście ogólnej kategorii.
+
+###Detailed Steps:
+- Najpierw zastanów się nad główną kategorią ogólną i podanym tematem; upewnij się, że akapit jest związany z obydwoma.
+- Nie wspominaj o ogólnej kategorii; używaj jej tylko w kontekście.
+- Zastanów się, jakie aspekty, fakty, opinie lub doświadczenia związane z tematem mogą wyrazić rozmówcy.
+- Załóż, że rozmówcy się znają.
+- Rozmówcy nie powinni wypowiadać się na tematy kontrowersyjne lub osobiste.
+- Rozmówcy powinni rozmawiać swobodnym tonem i wypowiadać się na zmianę.
+- Zdania wypowiadane przez rozmówców muszą być poprawne gramatycznie i płynąć naturalnie. Upewnij się, że kolejne zwroty w rozmowie mają sens jako kontynuacja poprzednich.
+- Rozmowa powinna być nieformalna i przyjazna, bez używania niepotrzebnie wyszukanego słownictwa lub nadmiernej formalności.
+- Dopuszczalne jest używanie wypełniaczy (takich jak „hmm”, „cóż”, „ech” itp.) lub niewielkich zawahań, o ile rozmowa pozostaje płynna i naturalna.
+- Rozmowa musi składać się z 10 kwestii i maksymalnie 70-90 słów.
+- Długość zwrotów powinna być zróżnicowana w naturalny sposób. Krótkie odpowiedzi (1-2 słowa) stosuj tylko wtedy, gdy mają sens w kontekście. Nie nadużywaj tych jednosłowowych odpowiedzi i upewnij się, że pasują one do poprzedniej wiadomości i nie są niejasnymi słowami lub frazami.
+- Nie używaj średników.
+- Posługuj się naturalnym językiem.
+- Rozmówcy powinni mówić wyłącznie płynną polszczyzną.
+- Głównym celem jest, aby wymiana zdań była realistyczna i sprawiała wrażenie ludzkiej, a nie maszynowej.
+- Staraj się, aby maksymalna łączna liczba słów w rozmowie nie przekraczała 90. Podczas pisania rozmowy licz słowa, aby upewnić się, że nie przekroczysz limitu.
+
+### Output Format:
+- Wyślij tylko rozmowę w prawidłowym formacie JSON (tablica słowników).
+- ŻADNYCH dodatkowych komentarzy, instrukcji, wyjaśnień ani znaków nowej linii.
+- NIE używaj znaków akcentu odwrotnego (```) do oznaczania bloków kodu.

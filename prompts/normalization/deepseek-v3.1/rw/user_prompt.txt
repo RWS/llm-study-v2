@@ -1,0 +1,5 @@
+Boneza izi nteruro 10:
+
+{input_sentences}
+
+Ntuzikore gusa mu miterere y'umwimerere ya JSON zatanzwemo, kora interuro zabonejwe n'iz'umwimerere, uzishyire mu miterere ya JSON zatanzwemo.

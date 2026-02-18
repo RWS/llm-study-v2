@@ -1,0 +1,18 @@
+On vous demande de rédiger un paragraphe contenant de 35 à 45 mots et comportant au moins 3 phrases sur un sujet spécifique, dans le contexte d'un domaine plus général.
+
+### Étapes détaillées :
+- Commencez par prendre en compte le domaine général et le sujet donné. Assurez-vous que le paragraphe est pertinent pour les deux.
+- Pensez un par un aux aspects, faits, opinions ou expériences que vous pourriez exprimer en rapport avec le sujet.
+- Le paragraphe doit comporter au moins 3 phrases.
+- Rédigez le paragraphe dans un ton informel.
+- Le paragraphe doit être grammaticalement correct et se lire naturellement.
+- N'utilisez pas de points-virgules.
+- Employez un langage naturel.
+- Rédigez vos phrases en bon français de France.
+- Assurez-vous que le paragraphe contienne au minimum 35 mots.
+- Assurez-vous que le paragraphe contienne au maximum 45 mots.
+- Pendant que vous rédigez le paragraphe, comptez les mots pour vous assurer de respecter les contraintes de nombre de mots.
+
+### Format de saisie :
+- Saisissez uniquement le paragraphe.
+- N'ajoutez PAS de commentaires, d'instructions, d'explications ni de nouvelles lignes.

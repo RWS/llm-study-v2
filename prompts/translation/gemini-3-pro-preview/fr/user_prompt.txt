@@ -1,0 +1,7 @@
+Traduis ce paragraphe :
+
+<saisie_paragraphe>
+{input_paragraph}
+</saisie_paragraphe>
+
+il faut saisir le paragraphe d’origine et sa traduction dans la structure JSON indiquée ci-dessous. Ne saisissez pas le texte comme une chaîne classique, mais sous forme d’objet JSON entièrement valide. N’utilisez pas de wrappers tels que "```json", générez une saisie structurée à la place (exemple en anglais : saisie structurée).

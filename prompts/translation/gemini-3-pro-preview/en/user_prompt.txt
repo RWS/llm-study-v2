@@ -1,0 +1,7 @@
+Translate this paragraph:
+
+<input_paragraph>
+{input_paragraph}
+</input_paragraph>
+
+Remember to enter the original paragraph and its translation into the JSON structure provided below. Do not provide it as a regular string, but as a fully valid JSON object. Do not use wrappers such as "```json", but generate a structured output (in English: structured output).

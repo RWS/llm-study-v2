@@ -1,0 +1,5 @@
+Przetłumacz ten akapit:
+
+<akapit_wprowadzający>
+{input_paragraph}
+</akapit_wprowadzający>

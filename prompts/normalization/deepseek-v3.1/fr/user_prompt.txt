@@ -1,0 +1,5 @@
+Effectue la conversion lexicale de ces 10 phrases :
+
+{input_sentences}
+
+Ne saisis pas seulement le schéma JSON brut, saisis les phrases normalisées et les phrases d'origine, incluses dans le schéma JSON donné.

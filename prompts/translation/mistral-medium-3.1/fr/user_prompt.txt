@@ -1,0 +1,5 @@
+Traduis ce paragraphe :
+
+<saisie_paragraphe>
+{input_paragraph}
+</saisie_paragraphe>

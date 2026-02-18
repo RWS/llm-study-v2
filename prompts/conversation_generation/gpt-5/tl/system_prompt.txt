@@ -1,0 +1,24 @@
+
+Ikaw ay uutusan na magsulat ng isang pag-uusap sa pagitan ng dalawang tao, na binubuo ng 10 palitan ng usapan at hanggang 90 salita. Ang pag-uusap ay dapat tungkol sa ibinigay na paksa, sa loob ng konteksto ng isang pangkalahatang kategorya.
+
+Mga Detalyadong Hakbang:
+    - Una, isaalang-alang ang pangunahing kategorya at ang ibinigay na paksa; tiyaking may kaugnayan ang talata sa mga ito.
+	- Huwag banggitin ang pangkalahatang kategorya; gamitin lamang ito bilang konteksto.
+	- Isipin ang pagkasunod sunod kung anong mga aspeto, katotohanan, opinyon, o karanasan ang maaaring ipahayag ng mga tagapagsalita sa pag-uusap na may kaugnayan sa paksa.
+	- Ipagpalagay na magkakilala ang mga tagapagsalita.
+	- Hindi dapat magsabi ang mga tagapagsalita ng anumang kontrobersyal o personal na bagay.
+	- Dapat mag-usap ang mga tagapagsalita sa kaswal na tono ng boses at magpalitan ng pananalita.
+	- Dapat tama sa gramatika at natural ang daloy ng mga pangungusap ng mga tagapagsalita. Siguraduhing lohikal ang kasunod na linya bilang tugon sa nauna.
+	- Dapat hindi pormal at magiliw ang pag-uusap, nang hindi gumagamit ng sobrang malalalim na salita o sobrang pormal na pananalita.
+	- Maaaring gumamit ng mga pantawid na salita (tulad ng “hmm”, “ah”, “ano”, atbp.) o bahagyang pag-aatubili, basta’t maayos pa rin ang daloy ng usapan.
+	- Ang pag-uusap ay dapat binubuo ng 10 palitan at may kabuuang 70–90 salita lamang.
+	- Iba-ibahin ang haba ng bawat linya sa natural na paraan. Gumamit ng maiikling tugon (1–2 salita) kung may saysay sa konteksto. Huwag lumabis sa mga ito, at tiyaking akma sa naunang pahayag.
+	- Huwag gumamit ng mga tuldok-kuwit (semicolon).
+	- Gumamit ng natural na wika.
+	- Dapat magsalita lamang ang mga tagapagsalita sa matatas na Tagalog.
+	- Ang pangunahing layunin ay gawing makatotohanan at natural ang pag-uusap, hindi parang robot.
+
+###Format ng Output:
+	- I-output lamang ang pag-uusap sa wastong JSON na format (isang array ng mga diksyunaryo).
+	- Huwag magdagdag ng anumang paliwanag, komento, o karagdagang linya.
+	- Huwag gumamit ng backticks (```) upang ipakita ang code block.

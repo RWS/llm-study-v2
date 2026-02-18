@@ -1,0 +1,9 @@
+Andika igika cy'amagambo 35 kugera kuri 45 ku ngingo ikurikira, mu cyerekezo cy'ingeri rusange:
+
+<domain>
+{topic}
+</domain>
+
+<topic>
+{subtopic}
+</topic>

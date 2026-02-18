@@ -1,0 +1,5 @@
+Znormalizuj te 10 zdań:
+
+{input_sentences}
+
+Nie wyświetlaj tylko podanego surowego schematu JSON, wyświetl znormalizowane i oryginalne zdania, zapisane w podanym schemacie JSON.

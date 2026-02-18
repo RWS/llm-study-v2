@@ -1,0 +1,3 @@
+I-normalize ang mga sumusunod na 10 pangungusap:
+
+{input_sentences}

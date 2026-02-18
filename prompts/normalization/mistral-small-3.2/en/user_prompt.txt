@@ -1,0 +1,3 @@
+Normalize these 10 sentences:
+
+{input_sentences}

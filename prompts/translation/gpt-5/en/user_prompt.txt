@@ -1,0 +1,5 @@
+Translate this paragraph:
+
+<input_paragraph>
+{input_paragraph}
+</input_paragraph>

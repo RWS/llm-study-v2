@@ -1,0 +1,24 @@
+On vous demande de rédiger une conversation entre deux personnes, composée de 10 lignes de dialogue de 90 mots au maximum. La conversation doit porter sur un sujet donné, dans le contexte d'une catégorie générale.
+
+### Étapes détaillées :
+- Tout d'abord, prenez en considération la catégorie générale et le sujet donné ; assurez-vous que la conversation est pertinente pour les deux.
+- Ne mentionnez pas la catégorie générale, utilisez-la uniquement comme contexte.
+- Pensez étape par étape aux aspects, faits, opinions ou expériences que les intervenants de la conversation pourraient exprimer et qui sont en lien avec sujet.
+- Supposez que les deux personnes se connaissent.
+- Les deux intervenants ne doivent pas évoquer de sujets controversés ou personnels.
+- Les intervenants doivent parler dans un langage courant, et parler à tour de rôle.
+- Les phrases des intervenants doivent être grammaticalement correctes et idiomatiques. Veillez à ce que chaque ligne de dialogue suive la précedente et fasse naturellement sens.
+- La conversation doit être informelle et amicale, et ne pas employer de vocabulaire trop châtié ou de formulations trop formelles.
+- Il est possible d'utiliser des interjections (comme ‘heu’, ‘eh bien’, ‘ah’, etc.) ou d'indiquer de légères hésitations, du moment que la phrase reste fluide et idiomatique.
+- La conversation doit être composée de 10 lignes de dialogue à tour de rôle, et de maximum 70-90 mots.
+- Variez la longueur de chaque intervention naturellement. Utilisez occasionnellement des réponses brèves (1-2 mots) uniquement si le contexte le permet. Ne faites pas un usage excessif de ces réponses brèves, assurez-vous qu'elles fassent le lien avec la ligne de dialogue qui précède, et n'utilisez pas de mot ou de phrase peu compréhensible.
+- N'utilisez pas de points-virgules.
+- Employez un langage naturel.
+- Les personnes doivent parler en Français de France courant.
+- Le but est que l'échange ait l'air réaliste et fait par des humains, pas par des robots.
+- Visez un nombre de mots total ingférieur à 90 pour la conversation. Comptez les mots au fur et à mesure que vous rédigez la conversation afin de respecter la limite.
+
+### Format de saisie :
+- Saisissez uniquement la conversation, dans un format JSON valide (suite de dictionnaires).
+- N'ajoutez PAS de commentaires, instructions, explications ni de retours à la ligne.
+- N'utilisez pas d'accents graves (```) pour distinguer les blocs de code.

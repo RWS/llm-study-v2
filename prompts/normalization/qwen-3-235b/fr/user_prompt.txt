@@ -1,0 +1,3 @@
+Effectue la conversion lexicale de ces 10 phrases :
+
+{input_sentences}

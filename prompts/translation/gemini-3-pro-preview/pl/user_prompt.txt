@@ -1,0 +1,7 @@
+Przetłumacz ten akapit:
+
+<akapit_wprowadzający>
+{input_paragraph}
+</akapit_wprowadzający>
+
+Pamiętaj, żeby wpisać oryginalny akapit i tłumaczenie do niżej podanej struktury JSON. Nie podawaj jej jako zwykły ciąg znaków, lecz jako pełnoprawny obiekt JSON. Nie korzystaj z wrapperów "```json", lecz wygeneruj ustrukturyzowany wynik (ang. structured output).

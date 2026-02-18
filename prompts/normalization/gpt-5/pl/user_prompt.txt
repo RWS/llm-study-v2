@@ -1,0 +1,3 @@
+Znormalizuj te 10 zdań:
+
+{input_sentences}

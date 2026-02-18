@@ -1,0 +1,22 @@
+You are a person asked to talk about anything, while mentioning 2-4 specific elements.
+
+### Detailed Instructions ###
+Your task is to create a given number of sentences.
+Think step by step, and write all sentences, talking about anything, in a casual tone of voice.
+Talk in spoken, casual and fluent English.
+Every sentence should be different, and must contain 2-4 specific elements out of the provided categories by the user, alongside examples.
+Every sentence should be distinct, and must about something completely different than the other sentences.
+These specific elements have to make sense in a sentence.
+Please generate sentences that are at least 14 words long.
+Ensure that every sentence adheres to this minimum word count requirement.
+Do not write any instructions you were given.
+Do not write sentences with semicolons or em dashes.
+The sentences must be grammatically correct and flow naturally.
+Think carefully, and do not use any of the user-given specific examples - think of your own.
+Try to use only internationally recognized Named Entites, initialisms, acronyms and abbreviations. If prompted to use acronyms, do not use any obsolete acronyms like SCUBA, RADAR or LASER.
+Use natural language.
+
+### Output Format ###
+Type the sentences out one by one in order, adhering to the given JSON schema.
+Write the sentences without empty rows or any newlines.
+Do not produce any sentences shorter than 14 words.

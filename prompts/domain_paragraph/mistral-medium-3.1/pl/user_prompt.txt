@@ -1,0 +1,9 @@
+Napisz akapit zawierający 35–45 słów dotyczący poniższego tematu w kontekście dziedziny ogólnej:
+
+<domain>
+{topic}
+</domain>
+
+<topic>
+{subtopic}
+</topic>

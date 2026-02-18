@@ -1,0 +1,7 @@
+<icyiciro_nyamukuru>
+{topic}
+</icyiciro_nyamukuru>
+
+<ingingo>
+{subtopic}
+</ingingo>

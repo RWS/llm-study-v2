@@ -1,0 +1,5 @@
+Isalin ang talatang ito sa Tagalog:
+
+<input_talata>
+{input_paragraph}
+</input_talata>
